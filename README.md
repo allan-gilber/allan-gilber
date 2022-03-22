@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Allan Gilber Status](https://github-readme-stats.vercel.app/api?username=allan-gilber&show_icons=true)
+
 <!--
 **allan-gilber/allan-gilber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
