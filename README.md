@@ -6,7 +6,7 @@
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=allan-gilber&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8px&count_private=true" />
 </a>
 
-## Languages that I work with:
+## Languages and Tools that I work with:
 <div align="center"}>
   <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
   <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
