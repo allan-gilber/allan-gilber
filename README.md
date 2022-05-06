@@ -6,6 +6,8 @@
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=allan-gilber&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8px&count_private=true" />
 </a>
 
+<img width="100%" align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-gilber" />
+
 ## Languages and Tools that I work with:
 <div align="center"}>
   <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
@@ -16,6 +18,9 @@
   <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" />
   <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
   <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/git.svg" />
+  <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
+  <img align="center" height="70px" src="https://cdn.worldvectorlogo.com/logos/android-4.svg" />
+  <img align="center" height="70px" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" />  
 </div>
 
 ## Contact Info:
