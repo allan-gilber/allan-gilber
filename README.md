@@ -6,7 +6,7 @@
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=allan-gilber&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8px&count_private=true" />
 </a>
 
-<img width="100%" align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-gilber" />
+<img width="100%" align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-gilber&hide=HTML,CSS" />
 
 ## Languages and Tools that I work with:
 <div align="center"}>
