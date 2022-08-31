@@ -1,7 +1,5 @@
 ## <p align="center"> Hello there and welcome to my Github profile! 👋 <br> My name is Allan Gilber and I'm a Fullstack Web Developer. <br> </p>
 
-### <p align="center">At the moment I'm currently taking an asynchronous java course at Capgeminischool.(07/2022--??)</p>
-
 <div align="center" width="100%">
   <img align="center" height="800px" width="100%" maxWidth="800px" src="https://giffiles.alphacoders.com/213/213162.gif" />
 </div>
