@@ -11,18 +11,23 @@
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-gilber&hide=HTML,CSS" />
 
 ## Languages and Tools that I work with:
-<div align="center"}>
-  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+<div align="center">
+  <img height="70px" style={"margin": "0.1rem"} src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"/>
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
-  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"/>
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" />
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/git.svg" />
+  <img height="70px" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" />  
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"/>
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" />
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/git.svg" />
-  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
-  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/android-4.svg" />
-  <img height="70px" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" />  
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"/>
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/less.svg"/>
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"/>
 </div>
 
 ## Contact Info:
